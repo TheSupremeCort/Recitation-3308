@@ -6,4 +6,5 @@ Lab 4
 ## Chase Dudas
 
 This might cause a merge conflict
-this is my change
+
+# Error?
